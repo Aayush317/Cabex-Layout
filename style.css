@@ -590,7 +590,7 @@ nav h3 {
 
 #loader{
     height: 100%;
-    width: 100%;
+    width: 100vw;
     background-color: #000;
     position: fixed;
     z-index: 999;
@@ -637,6 +637,6 @@ nav h3 {
 
 @media (max-width:600px) {
     #loader h1{
-        font-size: 6vw;
+        font-size: 7vw;
     }
 }
