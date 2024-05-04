@@ -416,6 +416,7 @@ nav h3 {
     position: fixed;
     z-index: 99;
     top: -100%;
+    left: 0;
     transition: all ease 0.5s;
 }
 
