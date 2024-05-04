@@ -411,12 +411,11 @@ nav h3 {
 
 #full-scr {
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     background-color: #00000070;
     position: fixed;
     z-index: 99;
     top: -100%;
-    left: 0;
     transition: all ease 0.5s;
 }
 
@@ -638,6 +637,6 @@ nav h3 {
 
 @media (max-width:600px) {
     #loader h1{
-        font-size: 7vw;
+        font-size: 6vw;
     }
 }
