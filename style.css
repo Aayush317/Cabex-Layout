@@ -309,7 +309,6 @@ nav h3 {
     min-height: 100vh;
     width: 100%;
     background-color: #EFEAE3;
-    padding: 4vw 0;
 }
 
 .elem {
@@ -421,7 +420,7 @@ nav h3 {
 
 #full-div1 {
     height: 50%;
-    width: 100%;
+    width: 100vw;
     background-color: #EFEAE3;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
