@@ -601,9 +601,14 @@ nav h3 {
         animation-timing-function: ease-in-out;
     }
 
+    #footer-div {
+        height: 55vh;
+        line-height: none;
+    }
+
     #footer-bottom h3 {
-    font-size: 12px;
-        padding-top: 1.75vw;
+    font-size: 13px;
+    padding-top: 6vw;
     }
 }
 
