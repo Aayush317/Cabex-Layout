@@ -611,7 +611,8 @@ nav h3 {
 
     #footer-bottom h3 {
     font-size: 13px;
-    padding-top: 6vw;
+    padding-top: 5vw;
+    line-height: 1vw;
     }
 }
 
