@@ -402,6 +402,20 @@ nav h3 {
     width: 100%;
 }
 
+#footer h4 a {
+    color:  #EFEAE3;
+    font-size: 28px;
+    line-height: 2.5vw;
+    text-decoration: none;
+    padding-left: 3vw;
+}
+
+#footer-bottom h3 {
+    color:  #EFEAE3;
+    font-size: 18px;
+    padding-top: 1vw;
+}
+
 #footer-bottom {
     border-top: 1px solid #dadada;
     height: 10vh;
