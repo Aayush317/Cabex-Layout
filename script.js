@@ -31,7 +31,7 @@ function swiperAnimation() {
         spaceBetween: 100,
         loop: true,
         autoplay: {
-            delay: 3000,
+            delay: 1000,
         }
     });
 }
