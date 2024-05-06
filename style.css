@@ -448,6 +448,24 @@ nav h3 {
 
 }
 
+#full-div1 #menutabs {
+    position: relative;
+    top: 40%;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+#full-div1 #menutabs h4 a {
+    position: relative;
+    font-size: 40px;
+    font-weight: 500;
+    color: #000;
+    text-align: right;
+    padding: 0 6vw;
+    text-decoration: none;
+}
+
 @media (max-width:600px) {
 
     #page1 {
