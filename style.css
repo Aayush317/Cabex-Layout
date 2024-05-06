@@ -377,10 +377,7 @@ nav h3 {
     width: 100%;
 }
 
-#page5 {
-    height: 100vh;
-    width: 100%;
-}
+
 
 #footer {
     position: fixed;
@@ -617,6 +614,10 @@ nav h3 {
     font-size: 13px;
     padding-top: 5vw;
     line-height: 1vw;
+    }
+
+    #page3 {
+        min-height: 0;
     }
 
     #page4 {
