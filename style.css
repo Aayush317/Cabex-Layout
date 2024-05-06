@@ -369,7 +369,7 @@ nav h3 {
 
 .swiper-slide {
     width: 30%;
-    padding: 0 2vw;
+    padding: 0 3vw;
 }
 
 .swiper-slide img {
@@ -617,6 +617,17 @@ nav h3 {
     font-size: 13px;
     padding-top: 5vw;
     line-height: 1vw;
+    }
+
+    .swiper-slide {
+        min-height: 0;
+        display: flex;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        height: 200px;
+        width: 200px;
     }
 }
 
