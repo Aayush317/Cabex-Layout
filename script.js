@@ -30,6 +30,9 @@ function swiperAnimation() {
         centeredSlides: true,
         spaceBetween: 100,
         loop: true,
+        autoplay: {
+            delay: 3000,
+        }
     });
 }
 function menuAnimation() {
