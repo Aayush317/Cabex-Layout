@@ -356,7 +356,7 @@ nav h3 {
 }
 
 #page4 {
-    min-height: 100vh;
+    height: 80vh;
     width: 100%;
     background-color: #EFEAE3;
     padding: 10vw 2vw;
@@ -644,7 +644,7 @@ nav h3 {
     }
 
     #page4 {
-        min-height: 0;
+        height: 100%;
         display: flex;
         align-items: center;
     }
